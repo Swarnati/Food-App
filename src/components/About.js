@@ -8,8 +8,8 @@ const About = () => {
         <h1>About Us</h1>
         <h2>Work in progress  </h2>
 
-        {/* <User name="Nikhil <function>" city="Patna" /> */}
-        <UserClass name="Nikhil <class>" city="Patna" />
+        
+        <UserClass name="Swarnati <class>" city="Kolkata" />
     </div>
   )
 }
